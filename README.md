@@ -1,1 +1,1 @@
-# Hashtable (Data-Structure)
+# Data-Structure Hashtable
